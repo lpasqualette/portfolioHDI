@@ -59,23 +59,23 @@ The exact reasons for those discrepancies have to be seen case by case as showca
 
 ## Key Conclusions:
 
-**+ Wealth Strongly Correlates with HDI Rank**
++ ** Wealth Strongly Correlates with HDI Rank**
 
 Countries with higher HDI rankings tend to have higher Gross National Income (GNI) per capita, confirming a strong relationship between national wealth and human development.
 
-**+ Education Gap Doesn’t Decrease Linearly with Human Development**
++ ** Education Gap Doesn’t Decrease Linearly with Human Development**
 
 Contrary to expectations, countries in the Very High Human Development group had a slightly larger average Education Gap than those in the High Human Development group.
 
 This suggests that economic prosperity and high HDI do not always equate to educational equality or fulfillment of educational potential.
 
-**+ High-Income Countries Show More Variability**
++ ** High-Income Countries Show More Variability**
 
 Very High Human Development countries displayed the greatest variability in both GNI and Education Gap, indicating diverse internal conditions despite similar HDI categories.
 
 This highlights that within-group disparities are significant and that aggregate HDI scores may mask underlying inequality.
 
-**+ Education Gap Can Be Misleading Without Context**
++ ** Education Gap Can Be Misleading Without Context**
 
 A low Education Gap does not necessarily reflect equal educational opportunity:
 
