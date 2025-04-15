@@ -56,3 +56,35 @@ The exact reasons for those discrepancies have to be seen case by case as showca
 + 🇹🇷 Türkiye has a wide Education Gap despite being classified in Very High Human Development group. This stems from multiple social inequality issues in the country related to gender, socioeconomic status, regional challenges and immigration [(OECD, 2023)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/taking-stock-of-education-reforms-for-access-and-quality-in-turkiye_8ef9c5a2/5ea7657e-en.pdf).
 
 + 🇸🇸 South Sudan presents low Education Gap because of universally limited access to education rather than equitable opportunity. The Expected Years of Schooling are only 5.6 years, which is very low when compared to Very High Human Development countries, such as Switzerland (16.6) or Iceland (19.1), for example. In addition, the ongoing humanitarian crises exacerbates social issues, as 73% of its population require  humanitarian assistance [(Windle Trust International, 2023)](https://www.windle.org.uk/south-sudan-education-system). 
+
+## Key Conclusions:
+
++ Wealth Strongly Correlates with HDI Rank
+
+         Countries with higher HDI rankings tend to have higher Gross National Income (GNI) per capita, confirming a strong relationship between national wealth and human development.
+
++ Education Gap Doesn’t Decrease Linearly with Human Development
+
+        Contrary to expectations, countries in the Very High Human Development group had a slightly larger average Education Gap than those in the High Human Development group.
+
+       This suggests that economic prosperity and high HDI do not always equate to educational equality or fulfillment of educational potential.
+
++ High-Income Countries Show More Variability
+
+        Very High Human Development countries displayed the greatest variability in both GNI and Education Gap, indicating diverse internal conditions despite similar HDI categories.
+
+        This highlights that within-group disparities are significant and that aggregate HDI scores may mask underlying inequality.
+
++ Education Gap Can Be Misleading Without Context
+
+        A low Education Gap does not necessarily reflect equal educational opportunity:
+
+            In South Sudan, the small gap exists because both expected and actual years of schooling are very low due to systemic limitations.
+
+            In contrast, Türkiye has a large gap despite its high HDI classification, illustrating how social and structural inequalities influence education access.
+
+## Implications:
+
++ Targeted social policies are needed to address the qualitative and distributional aspects of education and wealth.
+
++ Cross-country comparisons should account for context-specific factors like regional inequality, gender disparity, and humanitarian crises.
