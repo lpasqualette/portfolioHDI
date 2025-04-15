@@ -59,31 +59,31 @@ The exact reasons for those discrepancies have to be seen case by case as showca
 
 ## Key Conclusions:
 
-+ Wealth Strongly Correlates with HDI Rank
+**+ Wealth Strongly Correlates with HDI Rank**
 
-         Countries with higher HDI rankings tend to have higher Gross National Income (GNI) per capita, confirming a strong relationship between national wealth and human development.
+Countries with higher HDI rankings tend to have higher Gross National Income (GNI) per capita, confirming a strong relationship between national wealth and human development.
 
-+ Education Gap Doesn’t Decrease Linearly with Human Development
+**+ Education Gap Doesn’t Decrease Linearly with Human Development**
 
-        Contrary to expectations, countries in the Very High Human Development group had a slightly larger average Education Gap than those in the High Human Development group.
+Contrary to expectations, countries in the Very High Human Development group had a slightly larger average Education Gap than those in the High Human Development group.
 
-       This suggests that economic prosperity and high HDI do not always equate to educational equality or fulfillment of educational potential.
+This suggests that economic prosperity and high HDI do not always equate to educational equality or fulfillment of educational potential.
 
-+ High-Income Countries Show More Variability
+**+ High-Income Countries Show More Variability**
 
-        Very High Human Development countries displayed the greatest variability in both GNI and Education Gap, indicating diverse internal conditions despite similar HDI categories.
+Very High Human Development countries displayed the greatest variability in both GNI and Education Gap, indicating diverse internal conditions despite similar HDI categories.
 
-        This highlights that within-group disparities are significant and that aggregate HDI scores may mask underlying inequality.
+This highlights that within-group disparities are significant and that aggregate HDI scores may mask underlying inequality.
 
-+ Education Gap Can Be Misleading Without Context
+**+ Education Gap Can Be Misleading Without Context**
 
-        A low Education Gap does not necessarily reflect equal educational opportunity:
+A low Education Gap does not necessarily reflect equal educational opportunity:
 
-            In South Sudan, the small gap exists because both expected and actual years of schooling are very low due to systemic limitations.
+1. In South Sudan, the small gap exists because both expected and actual years of schooling are very low due to systemic limitations.
 
-            In contrast, Türkiye has a large gap despite its high HDI classification, illustrating how social and structural inequalities influence education access.
+2. In contrast, Türkiye has a large gap despite its high HDI classification, illustrating how social and structural inequalities influence education access.
 
-## Implications:
+## Recommendations:
 
 + Targeted social policies are needed to address the qualitative and distributional aspects of education and wealth.
 
