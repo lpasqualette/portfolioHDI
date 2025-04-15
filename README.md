@@ -1,7 +1,7 @@
 # Human Development Index 2022 Analysis
 
 ## **Brief Overview:**
----
+
 The Human Development Index (HDI) was developed by the United Nations Development Program (UNDP) to assess the well-being of a country’s population. It combines three key dimensions: life expectancy, education, and standard of living. According to the UNDP, “the HDI is the geometric mean of normalized indices for each of the three dimensions.”
 
 To explore the HDI in more detail, including methodology and access to raw data, you can visit the [UNDP website](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI).
@@ -12,7 +12,7 @@ Each year, countries recognized by the United Nations are ranked based on their 
 2.	**Gross National Income (GNI) per capita** (constant 2017 PPP$).
 
 ## **Key Concepts:**
----
+
 +	**Education Gap** indicates whether a population reaches their knowledge potential. A difference of zero would indicate that individuals spend as many years studying as it is expected in that country. Larger differences indicate that the country’s wealth is not being translated into education opportunities.
 
 +	**The Gross National Income (GNI) per capita** (constant 2017 PPP$) describes the average income per person in a country in a year, adjusted for inflation and differences in cost of living across countries based on the year 2017.
@@ -20,7 +20,7 @@ Each year, countries recognized by the United Nations are ranked based on their 
 The most recent HDI calculated is of the year 2022 and the open access data can be assessed at the [UNDP website](https://hdr.undp.org/data-center/documentation-and-downloads).
 
 ## **Main questions:**
----
+
 To understand how Education Gap and GNI related to the HDI rank of those countries, I asked two primary questions:
 
 + Are the countries ranked higher in the HDI rank also the wealthiest?
@@ -34,8 +34,8 @@ For the analysis, I used the UNDP’s classification of countries into four grou
 + Low Human Development
 
 ## **Results:**
----
 
+![Dashboard](https://github.com/lpasqualette/portfolioHDI/blob/master/HDIPortfolio.png)
 
 Several insights emerged from the analyses. Regarding to the two central questions:
 
